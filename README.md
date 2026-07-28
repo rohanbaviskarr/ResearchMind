@@ -1,4 +1,4 @@
-# 🚀 AetherAI – Autonomous Multi-Agent Research Engine
+# 🚀ResearchMind  – Autonomous Multi-Agent Research Engine
 ## 📷 Application Preview
 
 ![ResearchMind UI](assets/ui.png)
